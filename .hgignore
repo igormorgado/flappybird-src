@@ -1,0 +1,26 @@
+(^|/)CVS($|/)
+(^|/)\.hg($|/)
+(^|/)\.hgtags($|/)
+(^|/)build($|/)
+(^|/)buildandroidcmake($|/)
+(^|/)BUILD($|/)
+#(^|/)*\.xcuserdatad($|/)
+
+.DS_Store
+
+re:(^|/)((?!default).*)\.xcuserdatad($|/) 
+
+syntax: glob
+*.orig
+*.swp
+*.tmp
+*.rej
+*~
+*.o
+*.mode1*
+*.model*
+*.perspective*
+*.perspective*
+*.pbxuser
+
+

@@ -1,0 +1,86 @@
+SlideWhistle.wav
+Slide Whistle Up and Down, Free Sound Effects
+Paul Rodenburg
+I grant anyone the right to use this sound effect for any purpose commercial or non-commercial world wide for perpetuity, so long as it's not used in a stand alone manner. If you want to credit me, you can.
+https://www.youtube.com/watch?v=IsJnuvbjL0s
+(trimmed, converted to mono)
+
+
+davedes_fastsimplechop5b.wav
+Dave Des
+Creative Commons 0 1.0 Universal (CC0 1.0) 
+http://www.freesound.org/people/dave.des/sounds/127197/
+(converted to mono, pitch shifted, time shortened, trimmed)
+
+LeftHook_SoundBible_com-516660386.wav
+Mike Koenig
+Creative Commons Attribution 3.0
+http://soundbible.com/991-Left-Hook.html
+
+
+14609__man__swosh.wav
+man
+Creative Commons Attribution 3.0
+http://www.freesound.org/people/man/sounds/14609/
+(removed leading two sound effects, mono)
+
+
+A green cartoon pipe
+purzen
+Public Domain
+https://openclipart.org/detail/28804/a-green-cartoon-pipe-by-purzen
+(made narrower, taller, inverted for top, inverted for flipped lighting side)
+
+
+Medals
+momoko
+Public Domain
+https://openclipart.org/detail/8775/platinum-medallion-by-momoko
+https://openclipart.org/detail/8772/gold-medallion-by-momoko
+https://openclipart.org/detail/8773/silver-medallion-by-momoko
+https://openclipart.org/detail/8774/bronze-medallion-by-momoko
+(derived placeholder medal from these)
+
+
+
+
+Flappy Fly artwork pack from Sprite Builder/Cocos2D tutorial
+https://www.makegameswith.us/gamernews/369/build-your-own-flappy-bird-with-spritebuilder-and
+https://s3.amazonaws.com/mgwu-misc/FlappyFlyArtPack.zip
+"The art is part of our free art library that will be available soon - you can use it in your app."
+- benjaminencz
+(added fly0.png (wings down), trimmed fly whitespace)
+
+
+acknowledge font
+Brian Kent
+kentpw@norwich.net
+http://www.aenigmafonts.com/
+See included acknowledge.txt license file
+
+04B_19__.TTF
+O4Font
+Yuji Oshimoto
+Freeware: You may use them as you like.
+http://www.o4.jp.org/
+http://www.dafont.com/04b-19.font?text=Flappy+Bird
+
+
+Bitstream Vera fonts
+http://web.archive.org/web/20111127102009/http://www-old.gnome.org/fonts/
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc. 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (“Fonts”) and associated documentation files (the “Font Software”), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions: 
+
+The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.
+
+The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words “Bitstream” or the word “Vera”.
+
+This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the “Bitstream Vera” names. 
+
+The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself. 
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. 
+
+Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. 
+
